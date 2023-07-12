@@ -1,6 +1,6 @@
-# Ali Babi
+# Alo Babi
 
-Ali Babi est une boutique en ligne qui offre une large sélection de produits de haute qualité pour les utilisateurs africains. Notre mission est de fournir une plateforme sécurisée et conviviale où les acheteurs peuvent trouver les produits qu'ils recherchent et où les vendeurs peuvent atteindre un large public.
+Alo Babi est une boutique en ligne qui offre une large sélection de produits de haute qualité pour les utilisateurs africains. Notre mission est de fournir une plateforme sécurisée et conviviale où les acheteurs peuvent trouver les produits qu'ils recherchent et où les vendeurs peuvent atteindre un large public.
 
 ## Fonctionnalités
 
